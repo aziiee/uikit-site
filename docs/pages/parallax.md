@@ -42,6 +42,7 @@ You can use explicit CSS property names (e.g. `width` or `scale`) and a number o
 | `invert`           | Animate the invert filter.                             |
 | `saturate`         | Animate the saturate filter.                           |
 | `sepia`            | Animate the sepia filter.                              |
+| `stroke`           | Animate a path within a SVG.                           |
 
 **Note** You can basically animate any CSS property that has a single value, like `width` and `height`, by adding it to the attribute.
 
